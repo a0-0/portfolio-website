@@ -1,0 +1,73 @@
+.hero-section {
+  background: #080808;
+}
+
+.navbar {
+  background: #1B1B1B !important;
+  border-radius: 0px 0px 8px 8px;
+}
+
+.main-items .nav-item {
+  margin: 0 1.5rem 0 1.5rem;
+}
+
+.nd-items .nav-item {
+  margin: 0 4px 0 4px !important;
+}
+
+.margin1 {
+  margin: 0 5% 0 5% !important;
+}
+
+.margin2 {
+  margin: 6% 14% 0 14% !important;
+}
+.mar-text-hero-section{
+  margin-top: 2% !important;
+}
+.font-IBM {
+
+  font-family: 'IBM Plex Mono' !important;
+  font-weight: 300 !important;
+  font-size: 17px !important;
+  line-height: 24px !important;
+  color: #9C9C9C !important;
+}
+.margin3{
+  margin: 20px 0 !important;
+
+}
+
+.font-relway {
+  font-family: 'Raleway' !important;
+  font-style: normal !important;
+  font-weight: 800 !important;
+  font-size: 44px !important;
+  line-height: 52px !important;
+  color: #FFFFFF;
+}
+
+.btn1 {
+  margin: 15px 0 !important;
+  font-family: 'IBM Plex Mono' !important;
+  font-style: normal !important;
+  font-weight: 700 !important;
+  font-size: 16px !important;
+  line-height: 21px !important;
+  padding: 21px 60px !important;
+  color: #FFFFFF !important;
+  background: #3F8E00 !important;
+  border: 1px solid #62BA1B !important;
+  box-shadow: 0px 8px 30px rgba(63, 142, 0, 0.5) !important;
+  border-radius: 4px !important;
+}
+.btn1 i {
+  font-size: 12px;
+}
+
+.img11  {
+  border-radius: 100%;
+  float: right;
+  width: 370px;
+height: 370px;
+}

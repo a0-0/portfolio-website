@@ -1,5 +1,6 @@
 .hero-section {
   background: #080808;
+  min-height: 100vh !important;
 }
 
 .navbar {
@@ -22,20 +23,21 @@
 .margin2 {
   margin: 6% 14% 0 14% !important;
 }
-.mar-text-hero-section{
+
+.mar-text-hero-section {
   margin-top: 2% !important;
 }
-.font-IBM {
 
+.font-IBM {
   font-family: 'IBM Plex Mono' !important;
   font-weight: 300 !important;
   font-size: 17px !important;
   line-height: 24px !important;
   color: #9C9C9C !important;
 }
-.margin3{
-  margin: 20px 0 !important;
 
+.margin3 {
+  margin: 20px 0 !important;
 }
 
 .font-relway {
@@ -61,28 +63,90 @@
   box-shadow: 0px 8px 30px rgba(63, 142, 0, 0.5) !important;
   border-radius: 4px !important;
 }
+
 .btn1 i {
   font-size: 12px;
 }
 
-.img11  {
+.img11 {
   border-radius: 100%;
   float: right;
   width: 370px;
-height: 370px;
+  height: 370px;
 }
 
-.last-position-hero-section{
+.last-position-hero-section {
   margin: 4% 14% 0 14% !important;
+}
 
+.text-lp {
+  color: #ffffff !important;
 }
-.text-lp{
-color: #ffffff !important;
-}
-.btn3{
+
+.btn3 {
+  margin-left: 30px !important;
+  margin-right: 30px !important;
   margin-bottom: 30px !important;
-  margin-top: 9px!important;
+  margin-top: 9px !important;
   padding: 13px 53px !important;
   border: 1px solid #1B1B1B !important;
-  border-radius: 6px!important;
+  border-radius: 6px !important;
+}
+
+@media screen and (max-width: 1025px) {
+  .dude {
+    text-align: center !important;
+  }
+
+  .navbar-toggler {
+    color: white !important;
+  }
+
+  .img11 {
+    margin: 7% auto !important;
+    float: none !important;
+  }
+
+  .mar-text-hero-section {
+    margin: auto !important;
+  }
+
+  .margin1 {
+    margin: 0 2% 0 2% !important;
+  }
+
+  .margin2 {
+    margin: 6% 8% 0 8% !important;
+  }
+
+  .margin3 {
+    margin: 20px 0 !important;
+  }
+
+  .img11 {
+    border-radius: 100%;
+    float: right;
+    width: 600px;
+    height: 600px;
+  }
+
+  .font-IBM {
+    font-size: 27px !important;
+    line-height: 35px !important;
+  }
+
+  .font-relway {
+    font-size: 60px !important;
+    line-height: 52px !important;
+  }
+
+  .btn1 {
+    font-size: 25px !important;
+    line-height: 52px !important;
+  }
+
+  .img-btn {
+    height: 38px !important;
+    width: auto !important;
+  }
 }

@@ -47,46 +47,47 @@
   font-size: 44px !important;
   line-height: 52px !important;
 }
-.color-w{
-  color: #FFFFFF;
 
+.color-w {
+  color: #FFFFFF !important;
 }
+
 .btn1 {
-  margin: 15px 0 !important;
-  font-family: 'IBM Plex Mono'  !important;
+  margin: 25px 0 40px 0;
+   !important;
+  font-family: 'IBM Plex Mono' !important;
   font-style: normal !important;
   font-weight: 700 !important;
   font-size: 16px !important;
   line-height: 21px !important;
   padding: 21px 60px !important;
-
   border: 1px solid #62BA1B !important;
   border-radius: 4px !important;
 }
+
 .btn-color1 {
   color: #FFFFFF !important;
   background: #3F8E00 !important;
   box-shadow: 0px 8px 30px rgba(63, 142, 0, 0.5) !important;
-
 }
 
 .btn-color2 {
   color: #FFFFFF !important;
-  background: #FFA217  !important;
-  box-shadow: 0px 8px 30px rgba(42, 176, 144, 0.1)  !important;
+  background: #FFA217 !important;
+  box-shadow: 0px 8px 30px rgba(42, 176, 144, 0.1) !important;
 }
+
 .btn-color3 {
   color: #FFFFFF !important;
   background: #000AFF !important;
-  box-shadow: 0px 8px 30px rgba(0, 10, 255, 0.1)  !important;
+  box-shadow: 0px 8px 30px rgba(0, 10, 255, 0.1) !important;
 }
 
 .btn-color4 {
   color: #FFFFFF !important;
   background: #2AB090 !important;
-  box-shadow: 0px 8px 30px rgba(42, 176, 144, 0.1)!important;
+  box-shadow: 0px 8px 30px rgba(42, 176, 144, 0.1) !important;
 }
-
 
 .btn1 i {
   font-size: 12px;
@@ -117,62 +118,59 @@
   border-radius: 6px !important;
 }
 
-.nd-section{
-  margin-top:85px !important;
+.nd-section {
+  margin-top: 85px !important;
   margin-bottom: 85px !important;
 }
 
-.text-container{
+.text-container {
   text-align: center !important;
   margin: auto !important;
-  width: 45%!important;
+  width: 45% !important;
 }
 
-.fintech{
+.fintech {
   display: inline-block !important;
   font-family: 'IBM Plex Mono' Bold !important;
-font-style: normal!important;
-font-weight: 700!important;
-font-size: 12px!important;
-line-height: 24px!important;
-letter-spacing: 0.01em!important;
-padding: 0 10px 0 10px !important;
-border-radius: 60px;
+  font-style: normal !important;
+  font-weight: 700 !important;
+  font-size: 12px !important;
+  line-height: 24px !important;
+  letter-spacing: 0.01em !important;
+  padding: 0 10px 0 10px !important;
+  border-radius: 60px;
 }
-.fintech-color1{
+
+.fintech-color1 {
   color: #FFA217 !important;
-  background: #FFF6E9!important;
+  background: #FFF6E9 !important;
 }
 
-.fintech-color2{
+.fintech-color2 {
   color: #000AFF !important;
-  background: #D0E6FF!important;
-}
-.fintech-color3{
-color: #2AB090 !important;
-background: #E0FFF8 !important;
+  background: #D0E6FF !important;
 }
 
-.color-b{
+.fintech-color3 {
+  color: #2AB090 !important;
+  background: #E0FFF8 !important;
+}
+
+.color-b {
   color: #080808 !important;
 }
 
-.img-position-2nd-section{
+.img-position-2nd-section {
   text-align: center !important;
-  margin: auto!important;
+  margin: auto !important;
+  border-radius: 10px !important;
 }
 
-
-
-
-
-
-
-
-
-
-
-
+.rd-section {
+  background-color: #080808 !important;
+  padding-top: 85px !important;
+  padding-bottom: 85px !important;
+}
 
 @media screen and (max-width: 1025px) {
   .dude {

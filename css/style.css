@@ -27,6 +27,9 @@
 .mar-text-hero-section {
   margin-top: 2% !important;
 }
+/* .mar-text-hero-section1 {
+  margin-top: 2%  !important;
+} */
 
 .font-IBM {
   font-family: 'IBM Plex Mono' !important;
@@ -36,8 +39,10 @@
   color: #9C9C9C !important;
 }
 
+
 .margin3 {
   margin: 20px 0 !important;
+
 }
 
 .font-relway {
@@ -171,6 +176,48 @@
   padding-top: 85px !important;
   padding-bottom: 85px !important;
 }
+.dude11{
+  padding: 20px !important;
+}
+
+
+.no{
+  border: 1px solid white !important;
+  margin: 20px !important;
+  border-radius: 10px !important;
+
+}
+
+.margin10 {
+  margin: 0 14% 0 14% !important;
+}
+
+.container-maro{
+  width: 90%!important;
+  margin: 20px 15px !important;
+  border: 1px solid white !important;
+  padding: 25px !important;
+  border-radius: 5px;
+
+}
+.contact-img{
+  border-radius: 100% !important;
+}
+.client-name{
+  font-family: 'Raleway' !important;
+font-style: normal!important;
+font-weight: 700!important;
+font-size: 18px!important;
+line-height: 21px!important;
+padding: 10px!important;
+color: #FFFFFF!important;
+}
+
+
+
+
+
+
 
 @media screen and (max-width: 1025px) {
   .dude {

@@ -67,6 +67,17 @@
   border: 1px solid #62BA1B !important;
   border-radius: 4px !important;
 }
+.btn2 {
+   !important;
+  font-family: 'IBM Plex Mono' !important;
+  font-style: normal !important;
+  font-weight: 700 !important;
+  font-size: 16px !important;
+  line-height: 21px !important;
+  padding:16px   !important;
+  border: 1px solid #62BA1B !important;
+  border-radius: 4px !important;
+}
 
 .btn-color1 {
   color: #FFFFFF !important;
@@ -221,12 +232,30 @@
 .cocodd {
   padding-top: 30px !important;
 }
-.ccccc{
+
+.ccccc {
   text-align: center;
-  margin:auto;
+  margin: auto;
   color: white;
   background: #1B1B1B;
   padding: 20px;
+}
+.format-contact{
+  width: 400px !important;
+  /* text-align: center !important; */
+  margin: 20px auto!important;
+}
+.gggg{
+  /* text-align: center!important; */
+  margin: auto !important;
+}
+label{
+  color:white !important;
+ font-family: 'IBM Plex Mono'!important;
+font-style: normal!important;
+font-weight: 600!important;
+font-size: 12px!important;
+line-height: 16px!important;
 }
 @media screen and (max-width: 1025px) {
   .dude {

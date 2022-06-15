@@ -27,10 +27,10 @@
 .mar-text-hero-section {
   margin-top: 2% !important;
 }
+
 /* .mar-text-hero-section1 {
   margin-top: 2%  !important;
 } */
-
 .font-IBM {
   font-family: 'IBM Plex Mono' !important;
   font-weight: 300 !important;
@@ -39,10 +39,8 @@
   color: #9C9C9C !important;
 }
 
-
 .margin3 {
   margin: 20px 0 !important;
-
 }
 
 .font-relway {
@@ -176,49 +174,60 @@
   padding-top: 85px !important;
   padding-bottom: 85px !important;
 }
-.dude11{
+
+.dude11 {
   padding: 20px !important;
 }
 
-
-.no{
+.no {
   border: 1px solid white !important;
   margin: 20px !important;
   border-radius: 10px !important;
-
 }
 
 .margin10 {
   margin: 0 14% 0 14% !important;
 }
 
-.container-maro{
-  width: 90%!important;
+.ccc {
+  width: 90% !important;
+}
+
+.container-maro {
   margin: 20px 15px !important;
   border: 1px solid white !important;
   padding: 25px !important;
   border-radius: 5px;
-
 }
-.contact-img{
+
+.contact-img {
   border-radius: 100% !important;
 }
-.client-name{
+
+.client-name {
   font-family: 'Raleway' !important;
-font-style: normal!important;
-font-weight: 700!important;
-font-size: 18px!important;
-line-height: 21px!important;
-padding: 10px!important;
-color: #FFFFFF!important;
+  font-style: normal !important;
+  font-weight: 700 !important;
+  font-size: 18px !important;
+  line-height: 21px !important;
+  padding: 10px !important;
+  color: #FFFFFF !important;
 }
 
+.dodd {
+  border-radius: 5px !important;
+}
 
-
-
-
-
-
+.cocodd {
+  padding-top: 30px !important;
+}
+.ccccc{
+  text-align: center;
+  margin:auto;
+  color: white;
+  background: #1B1B1B;
+  padding: 20px;
+}
 @media screen and (max-width: 1025px) {
   .dude {
     text-align: center !important;
